@@ -1,1 +1,1 @@
-This repository contains code used in "Spatial sexual dimorphism of X and Y homolog gene expression in the human central nervous system during early male development" (doi: 10.1186/s13293-015-0056-4) 
+This repository contains code used in "Spatial sexual dimorphism of X and Y homolog gene expression in the human central nervous system during early male development" (https://doi.org/10.1186/s13293-015-0056-4) 
